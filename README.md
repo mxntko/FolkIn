@@ -46,8 +46,10 @@ FolkIn/
 ├── scripts/
 │   └── llm_assistant.py
 │   └── webcam_detect.py
-├── dataset/
-└── notebooks/
+├── qwen_focus_examples.jsonl
+└── FolkIn_YOLO_Training.ipynb
+└── FolkIn_Qwen_LoRA.ipynb
+└── FolkIn_Phone_Detection_Dataset_YOLO.zip
 ```
 
 The structure above is an example. Update it to match the actual files and folders in your repository.
