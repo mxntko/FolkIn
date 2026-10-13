@@ -45,6 +45,7 @@ FolkIn/
 │   └── folkin-qwen-lora/
 ├── scripts/
 │   └── llm_assistant.py
+│   └── webcam_detect.py
 ├── dataset/
 └── notebooks/
 ```
